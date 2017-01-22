@@ -20,10 +20,10 @@ stored locally?
 
     You can work on it even if you are offline.
 
-How would you collaborate without using Git or GitHub?  What would be easier,
+How would you collaborate without using Git or GitHub? What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I could use alternatives to them, like TortoiseSVN and SourceForge. Without GitHub would be harder than Git.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
